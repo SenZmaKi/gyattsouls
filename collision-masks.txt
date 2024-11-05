@@ -1,0 +1,5 @@
+1 - unused
+2 - player
+3 - obstacles
+4 - enemies
+5 - invisible boundary
